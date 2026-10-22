@@ -67,3 +67,7 @@ The interpreter talks to its host only through the `IO` interface (`print`, `inp
 ## Fonts
 
 The browser build uses the [UNSCII](http://viznut.fi/unscii/) 8x8 font (public domain) for the PETSCII-style glyphs, mapped to Unicode box drawing, block elements and card suits.
+
+## Thanks
+
+Special thanks to Mr. Zwölfer for the inspiring schooltime.
